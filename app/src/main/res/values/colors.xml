@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="isFavTrue">#4cd137</color>
+    <color name="isFavFalse">#e84118</color>
+</resources>
